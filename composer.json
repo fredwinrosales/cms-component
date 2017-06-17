@@ -1,0 +1,25 @@
+{
+    "name": "fredwinrosales/cms-component",
+    "description": "The Laravel Framework Library.",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Fredwin Rosales",
+            "email": "fredwinrosales@gmail.com",
+            "homepage": "http://en2x3.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
